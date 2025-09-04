@@ -8,13 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-<<<<<<< HEAD
-      "cwd": "c:/youcode/daytwo/boucles",
-      "program": "c:/youcode/daytwo/boucles/build/Debug/outDebug",
-=======
-      "cwd": "c:/youcode/daytwo/serieboucles",
-      "program": "c:/youcode/daytwo/serieboucles/build/Debug/outDebug",
->>>>>>> ae8498447bf788777a47158e77dcfcfe313e1e2f
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
